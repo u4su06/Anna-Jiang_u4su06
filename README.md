@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 * 能使用 Bootstrap 框架提高開發速度
 * 能使用 AJAX 與串接 API，把資料呈現到網頁上
 * 對版本控制有概念，能操作 Git/GitHub 等工具
+
+## 更多...
+### [CodePen](https://codepen.io/hbeeasfl)
