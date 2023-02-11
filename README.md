@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-2020年疫情來襲，促使許多產業數位轉型，也促使我下定決心，要學習數位技能。於是找到 ALPHA Camp 線上學校，開始報名上課。這一年來，我在正常上班的情況下，持續不懈的努力學習。現在，我正在尋找網頁切版、網頁設計等，相關的兼職工作。
+
 ## 專業技能
 * 使用 Visual Studio Code 撰寫程式碼
 * 熟悉 HTML/CSS/JavaScript 的應用，能把設計稿轉化成網頁，並能打造一般的互動
