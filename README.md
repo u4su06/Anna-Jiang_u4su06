@@ -1,5 +1,5 @@
 ### Hi there 👋
-## 我是 亦年
+## 我是 Anna Jiang
 
 <!--
 **u4su06/u4su06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
